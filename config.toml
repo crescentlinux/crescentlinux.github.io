@@ -1,3 +1,6 @@
 # temporary
 
 baseURL = "https://crescent.org/"
+languageCode = "en-us"
+title = "Crescent Linux"
+relativeURLS = true
